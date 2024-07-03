@@ -33,4 +33,4 @@
   
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/Gracious-lumbasio-b09979212/)
   ## [My Portfolio](https://Graciouslumbasio.github.io/portfolio/)
-  
+ ## [What happens when you type google.com in your browser and press Enter?](https://medium.com/@Graciouslumbasio/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-fc21dea6c983) 
